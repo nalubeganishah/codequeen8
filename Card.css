@@ -1,0 +1,64 @@
+
+.mothercard{
+   
+    height: 500px;
+    width: 400px;
+    background-color: violet;
+    margin: auto;
+   
+    
+}
+
+.child1{
+    height: 200px;
+    width: 400px;
+    background-color: blue;
+    padding-top: 40px;
+    margin-bottom: -50px;
+}
+
+.child2{
+    height: 300px;
+    width: 400px;
+    background-color: blanchedalmond;
+    padding-bottom: 60px;
+    
+
+}
+
+.profile{
+    height: 100px;
+    width: 100px;
+    margin-top: 100px;
+    padding: 10px 140px;
+    border-radius: 50%;
+    
+
+}
+
+.name{
+    text-align: center;
+    margin-bottom: -50px;
+}
+
+.position{
+    text-align: center;
+    color: blueviolet;
+}
+
+.details{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.view{
+    height: 40px;
+    width: 150px;
+    color: blueviolet;
+    background-color: blue;
+    margin: 120px;
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}

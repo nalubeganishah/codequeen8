@@ -1,0 +1,87 @@
+
+
+.mother{
+    width: 90vw;
+    height: 95vh; /* view height meaning that any device you will use to view this page it will be fitting*/
+    background-color: white;
+    margin-left: 70px;
+}
+
+.welcome{
+    width: 90vw;
+    height: 30vh;
+    background-color: lightgray;
+    
+    box-shadow: 10px;
+}
+
+
+#div1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: white;
+    width: 28vw;
+    height: 55vh;
+    float: right;
+}
+
+#div2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: white;
+    width: 28vw;
+    height: 55vh;
+    float: left;
+}
+
+#div3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: white;
+    width: 28vw;
+    height: 55vh;
+    margin: 0 auto;
+}
+
+.child{
+    text-align: center;
+    background-color: rgb(177, 247, 223);
+    width: 90vw;
+    height: 6vh;
+    padding-top: 10px;
+    
+    
+}
+
+.learn{
+    color: white;
+    background-color: blue;
+    width: 80vw;
+    height: 8vh;
+    margin-left: 50px;
+    border: none;
+   
+}
+
+.big{
+    font-size: larger;
+    text-align: center;
+    padding-top: 20px;
+  
+    
+}
+
+.paragraph{
+    text-align: center;
+    padding-top: 5px;
+
+}
+
+.image2{
+    width: 300px;
+}
+
+.image1{
+    width: 300px;
+}
+
+.image3{
+    width: 300px;
+}

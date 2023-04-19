@@ -1,0 +1,12 @@
+.container{
+    background-color: blueviolet;
+    display: grid;
+    grid-template-columns: auto auto auto; 
+    gap: 20px;
+    grid-template-rows: 40px 60px 200px;
+    justify-content: end;
+}
+.container>div{
+    background-color: white;
+}
+

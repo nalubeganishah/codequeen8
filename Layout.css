@@ -1,0 +1,76 @@
+.Mother{
+    background-color: rgb(66, 219, 74);
+    height: 800px;
+    width: 1000px;
+    margin: auto;
+
+
+}
+.Sister{
+    background-color: rgb(226, 43, 131);
+    height:400px;
+    width:800px;
+    margin:100px;
+
+
+}
+
+.Child{
+    background-color: white;
+    height:400px;
+    width:400px;
+
+
+}
+
+.first{
+    float: left;
+    background-color: white;
+
+}
+  /*blue box*/
+.second{
+    float: right;
+    background-color: rgb(95, 140, 217);
+}
+
+/*twitter logo*/
+.logo{
+    padding-top: 50px;
+    padding-left: 180px;
+    padding-right: 200px;
+}
+.p{
+    color: white;
+}
+  /*twitter market design*/
+.bird{
+      height: 300px;
+      width: 250px;
+      padding-left: 50px;
+
+}
+
+
+.details{
+    border: 0px;
+    box-shadow: 1px 1px 1px rgb(205, 203, 203);
+    padding: 5px;
+    width: 250px;
+    margin-left: 70px;
+    border-radius: 5px;
+    color: antiquewhite;
+}
+.forgot{
+    margin-left: 70px;
+}
+.button{
+    border: 0px;
+    background-color: rgb(108, 108, 240);
+    margin-left: 70px;
+    width: 250px;
+    padding: 10px;
+}
+.yet{
+    margin-left: 70px;
+}

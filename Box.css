@@ -1,0 +1,50 @@
+.motherbox{
+    border: 5px purple solid;
+    height: 500px;
+    width: 500px;
+    margin: auto;
+
+
+
+}
+
+#babybox{
+    height: 200px;
+    width: 200px;
+    border-top: 10px dotted red;
+    border-bottom: 5px dashed green;
+    border-left: 10px rgb(56, 17, 198) double;
+    border-right: 5px goldenrod solid;
+
+
+}
+/*mother to a curved box*/
+.bigbox{
+    border-radius: 10px;
+    border: 3px solid;
+    height: 600px;
+    width: 600px;
+    margin: 100px;
+    box-shadow: 50px 50px black;
+}
+/*border and ragius*/
+.smallbox{
+    width: 400px;
+    height: 400px;
+    margin: 80px;
+    border: 20px hotpink solid ;
+    background-color: aliceblue;
+    border-top-left-radius: 100px;
+    border-top-color: blue;
+    box-shadow: 20px 20px 10px gray;
+}
+/*circle*/
+.tinnybox{
+    background-color: brown;
+    border: greenyellow solid;
+    height: 200px;
+    width: 200px;
+    margin: 100px;
+    border-radius: 50%;
+    box-shadow: 20px 20px 40px green;
+}
